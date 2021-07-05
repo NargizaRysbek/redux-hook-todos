@@ -1,0 +1,23 @@
+.Login{
+    border: 5px solid rgb(154, 87, 202);
+    border-radius: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    width: 400px;
+    height: 350px;
+    margin-left: 440px;
+}
+.third-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.forget-password{
+    color: rgb(154, 87, 202);
+}
+label{
+    color: rgb(154, 87, 202) ;
+}
